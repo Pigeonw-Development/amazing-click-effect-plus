@@ -36,8 +36,4 @@
 
 ## 📷 效果预览
 
-> [](https://cdn.luogu.com.cn/upload/image_hosting/qvx8p6nl.png)
-
-```text
-单击 → 小型三角形爆炸  
-长按 → 粒子汇聚 → 松开 → 大型特效释放
+> ![](https://cdn.luogu.com.cn/upload/image_hosting/qvx8p6nl.png)
