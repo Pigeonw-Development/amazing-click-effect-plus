@@ -1,2 +1,43 @@
-# amazing-click-effect-plus
-Optimized Amazing Click Effect! Mouse-following triangles &amp; dots with low CPU usage.
+# Amazing Click Effect (Optimized)
+
+✨ 一个基于原版 [**Amazing click effect!**](https://greasyfork.org/zh-CN/scripts/565081-amazing-click-effect) 的 Tampermonkey 点击特效脚本优化版本  
+✨ 在保留原有炫酷视觉效果的同时，大幅降低 CPU 占用，并增加鼠标跟随特效
+
+---
+
+## 📌 项目简介
+
+本项目基于 **Super_Diu** 创作的  
+**Amazing click effect!** 用户脚本进行优化与增强。
+
+主要目标是：
+
+- 解决多标签页 / 多窗口下的卡顿与高 CPU 占用问题
+- 改善长按蓄力时的交互体验
+- 在不破坏原有视觉风格的前提下提升性能稳定性
+
+---
+
+## ✨ 特性与优化点
+
+### ✅ 新增 / 改进
+- 🔄 **长按时粒子实时跟随鼠标移动**
+- 🚀 **限制粒子和三角形数量，防止性能爆炸**
+- 🧠 **优化动画更新逻辑，减少无效计算**
+- 🧵 **缩短尾迹长度，降低 Canvas 绘制压力**
+
+### 🛠 保留原特性
+- 单击 / 长按触发三角形爆炸特效
+- 蓝色系粒子风格
+- 平滑动画与渐变尾迹
+- 不影响网页交互（`pointer-events: none`）
+
+---
+
+## 📷 效果预览
+
+> （你可以在这里放 GIF 或截图）
+
+```text
+单击 → 小型三角形爆炸  
+长按 → 粒子汇聚 → 松开 → 大型特效释放
