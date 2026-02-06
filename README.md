@@ -1,4 +1,4 @@
-# Amazing Click Effect (Optimized)
+# Amazing Click Effect
 
 ✨ 一个基于原版 [**Amazing click effect!**](https://greasyfork.org/zh-CN/scripts/565081-amazing-click-effect) 的 Tampermonkey 点击特效脚本优化版本  
 ✨ 在保留原有炫酷视觉效果的同时，大幅降低 CPU 占用，并增加鼠标跟随特效
