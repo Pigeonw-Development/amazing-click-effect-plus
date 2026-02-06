@@ -1,5 +1,7 @@
 # Amazing Click Effect
 
+[[快速安装]](https://update.greasyfork.org/scripts/565342/Amazing%20click%20effect%21%20（Better）.user.js) [[油叉链接]](https://greasyfork.org/zh-CN/scripts/565342/versions/new)
+
 ✨ 一个基于原版 [**Amazing click effect!**](https://greasyfork.org/zh-CN/scripts/565081-amazing-click-effect) 的 Tampermonkey 点击特效脚本优化版本  
 ✨ 在保留原有炫酷视觉效果的同时，大幅降低 CPU 占用，并增加鼠标跟随特效
 
