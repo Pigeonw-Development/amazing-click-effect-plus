@@ -1,10 +1,10 @@
 // ==UserScript==
-// @name         Amazing click effect! (Enhanced Low-CPU)
+// @name         Amazing click effect! 
 // @namespace    http://tampermonkey.net/
 // @version      1.13.0
 // @description  Optimized long press triangle & dot effect, mouse-following dots, lower CPU usage
 // @author       Super_Diu
-// @contributors twyeottk
+// @contributors Pigeonw Development
 // @match        *://*/*
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant        none
