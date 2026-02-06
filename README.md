@@ -36,7 +36,7 @@
 
 ## 📷 效果预览
 
-> （你可以在这里放 GIF 或截图）
+> [](https://cdn.luogu.com.cn/upload/image_hosting/qvx8p6nl.png)
 
 ```text
 单击 → 小型三角形爆炸  
